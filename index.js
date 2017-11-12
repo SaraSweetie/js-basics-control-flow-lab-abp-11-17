@@ -4,9 +4,9 @@ function scuberGreetingForFeettest(199){
     console.log ('This one is on me!')
   }
   else if (scuberGreetingForFeettest > 2000 ) {
-    console.log ('$30 dollars')
+    console.log ('I will gladly take your thirty bucks.')
   }
   else (scuberGreetingForFeettest > 2500 ) {
-    console.log ('too long')
+    console.log ('No can do.')
   }
 }

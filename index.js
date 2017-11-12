@@ -29,3 +29,4 @@ function switchOnCharmFromTip(tip)
     case "generous":
       return 'Bye.'
           break;
+        }

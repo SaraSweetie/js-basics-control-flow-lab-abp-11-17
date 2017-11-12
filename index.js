@@ -1,5 +1,5 @@
 // Write your code in this file!
-function scuberGreetingForFeettest(){
+function scuberGreetingForFeettest(199){
   if (scuberGreetingForFeettest <= 400 ) {
     console.log ('This one is on me!')
   }
@@ -9,5 +9,4 @@ function scuberGreetingForFeettest(){
   else (scuberGreetingForFeettest > 2500 ) {
     console.log ('too long')
   }
-
 }
